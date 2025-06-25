@@ -1,4 +1,4 @@
-# Black Hole Simulator
+# Black Hole Simulator with DirectX
 
 A physically accurate black hole simulator that demonstrates gravitational lensing and other relativistic effects using DirectX for rendering.
 
